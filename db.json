@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Lemon Juice",
+      "price": 40,
+      "id": 9
+    },
+    {
+      "name": "Grass Butter",
+      "price": "17",
+      "id": 12
+    },
+    {
+      "name": "Mouse Logitech",
+      "price": 20,
+      "id": 13
+    },
+    {
+      "name": "Apple",
+      "price": 1,
+      "id": 14
+    },
+    {
+      "name": "Potato",
+      "price": 1,
+      "id": 15
+    },
+    {
+      "name": "Pineapple",
+      "price": 4,
+      "id": 16
+    },
+    {
+      "name": "Keyboard",
+      "price": 50,
+      "id": 17
+    }
+  ]
+}
